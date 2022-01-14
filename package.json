@@ -1,0 +1,14 @@
+{
+  "name": "test-api-heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrohbsilva/test-api-heroku.git",
+  "author": "pedro <phbs1235@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
