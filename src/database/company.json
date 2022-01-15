@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "PH Solutions",
+        "age": 2,
+        "employees": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ],
+        "owner": {
+            "id": 3
+        },
+        "state": "Santa Catarina"
+    },
+    {
+        "id": 2,
+        "name": "LZ Tech",
+        "age": 1,
+        "employees": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 4
+            }
+        ],
+        "owner": {
+            "id": 6
+        },
+        "state": "Minas Gerais"
+    }
+]
